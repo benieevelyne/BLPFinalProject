@@ -1,0 +1,15 @@
+﻿,,,WEIGHTS,
+SK LEARN,IMPORT,FIT,out_prncp,last_pymnt_amnt
+,Quadratic Discriminant Analysis,0.071,n/a,n/a
+,Ada Boost Classifier,0.689,0.88,0.12
+tree ,DecisionTreeClassifier(),0.926,0.753,0.246
+tree ,DecisionTreeClassifier(MAX DEPTH = 7),0.943,0.824,0.175
+ensemble ,RandomForestClassifier(n_estimators=2000),0.939,0.524,0.475
+ensemble ,"RandomForestClassifier(max_depth=5, n_estimators=25, max_features=2)",0.943,0.827,0.172
+neighbors,KNeighborsClassifier,0.9403,n/a,n/a
+neural_network,MLPClassifier(6),0.8402,n/a,n/a
+neural_network,MLPClassifier(alpha=1.5),0.917,n/a,n/a
+svm,"SVC(kernel=""linear"", C=0.025)",,,
+svm,"SVC(gamma=2, C=1)",,,
+Gaussian_process,GaussianProcessClassifier(1.0 * RBF(1.0)),,,
+RBF Gaussian_process,GaussianProcessClassifier(),,,
