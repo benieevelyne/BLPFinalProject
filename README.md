@@ -6,16 +6,16 @@
 
 ## GOAL
 
-Develop a tool that will help lenders to predict which loans are more likely to become delinquent so that they can take necessary steps to mitigate those risks. We are focusing on secured loans. They are car, house, home improvement, major purchases.
+Develop a tool that will help lenders to predict which loans are more likely to become delinquent so that they can take necessary steps to mitigate those risks. We are focusing on secured loans only (car, house and home improvement).
 
 
 ## JUSTIFICATION
 
-This tool will be valuable for financial institution looking to improve the profitability and lower the risk of their loan portfolio.
+This tool will be valuable for financial institution looking to improve profitability and lower the risk of their loan portfolio.
 
 ## TECHNICAL RESOURCES
 
-Python Pandas, Python Matplotlib, Tableau & scikit-learn
+Python Pandas, Python Matplotlib, Tableau, Machine Learning Library (Sci-Kit learn)
 
 ## TIMELINE
 
@@ -33,5 +33,5 @@ Python Pandas, Python Matplotlib, Tableau & scikit-learn
 ***Messac Che Neba***
 
 
-### SOURCE: https://www.lendingclub.com/info/download-data.action
+### DATA ANALYZED WAS SOURCED FROM: https://www.lendingclub.com/info/download-data.action
 
