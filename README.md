@@ -23,5 +23,15 @@ Python Pandas, Python Matplotlib, Tableau & scikit-learn
 * Project Plan Submission: 2.5.2019
 * Project Completion: 2.12.2019
 
+## AUTHORS
+
+***Alex Carter***
+***Carl Adams***
+***Evelyne Benie***
+***Jeff Olson***
+***Keisha McCallum***
+***Messac Che Neba***
+
+
 ### SOURCE: https://www.lendingclub.com/info/download-data.action
 
