@@ -2,7 +2,7 @@
 
 # BAD LOAN PREDICTOR
 
-![alt text](https://raw.githubusercontent.com/benieevelyne/BLPFinalProject/Keisha/images/webpage.png)
+![alt text](https://raw.githubusercontent.com/benieevelyne/BLPFinalProject/Keisha/images/webpage.PNG)
 
 ## GOAL
 
