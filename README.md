@@ -6,7 +6,7 @@
 
 ## GOAL
 
-Develop a tool that will help lenders to predict which loans are more likely to become delinquent so that they can take necessary steps to mitigate those risks. We are focusing on secured loans. They are car, house, home improvement, major purchases.
+Develop a tool that will help lenders to predict which loans are more likely to become delinquent so that they can take necessary steps to mitigate those risks. We are focusing on secured loans only (car, house and home improvement).
 
 
 ## JUSTIFICATION
