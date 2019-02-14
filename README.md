@@ -33,5 +33,5 @@ Python Pandas, Python Matplotlib, Tableau & scikit-learn
 ***Messac Che Neba***
 
 
-### SOURCE: https://www.lendingclub.com/info/download-data.action
+### DATA ANALYZED WAS SOURCED FROM: https://www.lendingclub.com/info/download-data.action
 
