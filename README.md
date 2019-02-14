@@ -1,6 +1,6 @@
 # BLPFinalProject: BAD LOAN PREDICTOR
 
-![alt text](https://raw.githubusercontent.com/benieevelyne/BLPFinalProject/Keisha/images/background.jpg)
+![alt text](https://raw.githubusercontent.com/benieevelyne/BLPFinalProject/Keisha/images/background.jpeg)
 
 GOAL:
 
