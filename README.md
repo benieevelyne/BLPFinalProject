@@ -15,7 +15,7 @@ This tool will be valuable for financial institution looking to improve profitab
 
 ## TECHNICAL RESOURCES
 
-Python Pandas, Python Matplotlib, Tableau & scikit-learn
+Python Pandas, Python Matplotlib, Tableau, Machine Learning Library (Sci-Kit learn)
 
 ## TIMELINE
 
