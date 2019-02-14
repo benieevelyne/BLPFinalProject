@@ -15,7 +15,7 @@ This tool will be valuable for financial institution looking to improve the prof
 
 ## TECHNICAL RESOURCES
 
-Python Pandas, Python Matplotlib, Tableau, MySQL Database, HTML/CSS/Bootstrap**,   Python Flask ***
+Python Pandas, Python Matplotlib, Tableau & scikit-learn
 
 ## TIMELINE
 
