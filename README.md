@@ -11,7 +11,7 @@ Develop a tool that will help lenders to predict which loans are more likely to 
 
 ## JUSTIFICATION
 
-This tool will be valuable for financial institution looking to improve the profitability and lower the risk of their loan portfolio.
+This tool will be valuable for financial institution looking to improve profitability and lower the risk of their loan portfolio.
 
 ## TECHNICAL RESOURCES
 
