@@ -2,7 +2,7 @@
 
 # BAD LOAN PREDICTOR
 
-![alt text](https://raw.githubusercontent.com/benieevelyne/BLPFinalProject/Keisha/images/background.jpeg)
+![alt text](https://raw.githubusercontent.com/benieevelyne/BLPFinalProject/Keisha/images/webpage.PNG)
 
 ## GOAL
 
@@ -11,7 +11,7 @@ Develop a tool that will help lenders to predict which loans are more likely to 
 
 ## JUSTIFICATION
 
-This tool will be valuable for financial institution looking to improve profitability and lower the risk of their loan portfolio.
+This tool will be valuable for financial institutions looking to improve profitability and lower the risk of their loan portfolio.
 
 ## TECHNICAL RESOURCES
 
