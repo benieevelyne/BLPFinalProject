@@ -1,15 +1,18 @@
 # BLPFinalProject: BAD LOAN PREDICTOR
 
-![alt text](https://raw.githubusercontent.com/benieevelyne/BLPFinalProject/Keisha/tree/images/background.jpg)
+![alt text](https://raw.githubusercontent.com/benieevelyne/BLPFinalProject/Keisha/images/background.jpg)
 
 GOAL:
+
 Develop a tool that will help lenders to predict which loans are more likely to become delinquent so that they can take necessary steps to mitigate those risks. We are focusing on secured loans. They are car, house, home improvement, major purchases.
 
 
 JUSTIFICATION:
+
 This tool will be valuable for financial institution looking to improve the profitability and lower the risk of their loan portfolio.
 
 TECHNICAL RESOURCES:
+
 Python Pandas, Python Matplotlib, Tableau, MySQL Database, HTML/CSS/Bootstrap**,   Python Flask ***
 
 TIMELINE:
