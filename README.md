@@ -25,11 +25,11 @@ Python Pandas, Python Matplotlib, Tableau & scikit-learn
 
 ## AUTHORS
 
-***Alex Carter***
-***Carl Adams***
-***Evelyne Benie***
-***Jeff Olson***
-***Keisha McCallum***
+***Alex Carter***,
+***Carl Adams***,
+***Evelyne Benie***,
+***Jeff Olson***,
+***Keisha McCallum***,
 ***Messac Che Neba***
 
 
