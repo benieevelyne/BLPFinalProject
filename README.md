@@ -33,5 +33,5 @@ Python Pandas, Python Matplotlib, Tableau, Machine Learning Library (Sci-Kit lea
 ***Messac Che Neba***
 
 
-### DATA ANALYZED WAS SOURCED FROM: [Lending Club] https://www.lendingclub.com/info/download-data.action
+### DATA ANALYZED WAS SOURCED FROM: [Lending Club](https://www.lendingclub.com/info/download-data.action)
 
