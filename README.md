@@ -1,6 +1,6 @@
 # BLPFinalProject
 
-![alt text](https://raw.githubusercontent.com/benieevelyne/BLPFinalProject/images/background.jpeg)
+![alt text](https://github.com/benieevelyne/BLPFinalProject/images/background.jpeg)
 
 ## GOAL
 
